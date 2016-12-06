@@ -1,0 +1,17 @@
+{
+  "name": "watch-notifier",
+  "version": "0.0.1",
+  "description": "Quick little script to notify about Apple Watch availability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gryffon@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "moment-timezone": "0.5.5",
+    "node-schedule": "1.1.1",
+    "nodemailer": "2.6.0",
+    "request": "2.75.0"
+  }
+}
